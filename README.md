@@ -9,3 +9,6 @@ This script is currently in beta, and we are not sure if aerOS will properly be 
 
 ### Note's
 This does not delete files, This only deletes user-installed packages and configs.
+
+### VERY important note
+MAKE sure you RUN this IN root shell, NOT in sudo, use `su` then run the script from `su` or `root` shell.
