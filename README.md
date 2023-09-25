@@ -1,6 +1,8 @@
 # aerOS-refresh
 A simple bash script to refresh aerOS.
 
+# Currently Unmaintained and Archived
+
 ### How does it work?
 This script removes all installed packages and installs the system packages. All System and app config's will also be deleted, However flatpak and (maybe) yay packages won't be removed. The ~/.config folder will be deleted entirely.
 
